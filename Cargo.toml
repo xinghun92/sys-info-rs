@@ -25,4 +25,4 @@ path = "lib.rs"
 gcc = "0.3.51"
 
 [dependencies]
-libc = "0.2.29"
+libc = "*"
